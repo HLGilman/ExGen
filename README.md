@@ -9,4 +9,3 @@ Current Code exists for illustrating group level behavioural permutations.
 ![alt tag](https://raw.githubusercontent.com/HLGilman/ExGen/master/README%20Figures/Permutation_Younger.jpg)
 
 
-https://github.com/HLGilman/ExGen/tree/master/README%20Figures
