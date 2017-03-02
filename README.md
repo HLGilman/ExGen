@@ -6,4 +6,7 @@ Code is still in development and may have bugs. Data will be uploaded shortly. A
 
 Current Code exists for illustrating group level behavioural permutations. 
 
-![alt tag](https://raw.githubusercontent.com/HLGilman/ExGen/master/README_Figures/Permutation_Younger.jpg)
+![alt tag](https://raw.githubusercontent.com/HLGilman/ExGen/master/README%20Figures/Permutation_Younger.jpg)
+
+
+https://github.com/HLGilman/ExGen/tree/master/README%20Figures
